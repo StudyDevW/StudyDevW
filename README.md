@@ -5,11 +5,3 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2000&pause=1000&color=618D26&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=650&lines=Using+Libs+.NET+%5B+EF+core+(ORM)+%2F+StackExchange.Redis+(Cache)+%5D" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2000&pause=1000&color=618D26&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=635&lines=Using+Libs+C%2B%2B+%5B+CPR%2C++POCO%2C+AMQP-CPP%2C++JSON+%5D" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2000&pause=1000&color=618D26&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=635&lines=Operation+Systems+%5B+Windows+%2F+Ubuntu+22.04+LTS+%5D" alt="Typing SVG" /></a>
-
-<h3 align="left">Frontend C++: (WinApi, ImGui)</h3>
-<h2 align="left">Backend C++: (Curl Lib, POCO Lib, AMQP Lib, without Boost)</h2>
-<h2 align="left">Frontend C#: (WinForms, WPF)</h2>
-<h2 align="left">Backend C#: (ASP.NET Web API, ASP.NET EntityFramework Core, ASP.NET MVC, .NET Core)</h2>
-<h2 align="left">Database: PostgreSQL(pgadmin4), MySQL(phpmyadmin)</h2>
-<h2 align="left">Operation Systems: Windows 11, Ubuntu 22.04 LTS</h2>
-<h2 align="left">Basic knowledge of Docker</h2>
