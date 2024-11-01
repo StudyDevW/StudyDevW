@@ -7,5 +7,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2000&pause=1000&color=618D26&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=635&lines=Using+Libs+C%2B%2B+%5B+CPR%2C++POCO%2C+AMQP-CPP%2C++JSON+%5D" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2000&pause=1000&color=618D26&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=635&lines=Operation+Systems+%5B+Windows+%2F+Ubuntu+22.04+LTS+%5D" alt="Typing SVG" /></a>
 
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StudyDevW&title=-Reviews,-PullRequest,-Stars,-Followers,-Issues" alt="studydevw" /></a>
+<h2>Achievements</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StudyDevW&theme=dark_lover&margin-w=15&title=-Reviews,-PullRequest,-Stars,-Followers,-Issues" alt="StudyDevW" /></a>
