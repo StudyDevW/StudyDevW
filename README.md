@@ -9,3 +9,7 @@
 
 <h2>Achievements</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StudyDevW&theme=dark_lover&margin-w=15&title=-Reviews,-PullRequest,-Stars,-Followers,-Issues" alt="StudyDevW" /></a>
+<h2>Awards</h2>
+<img src="https://github.com/user-attachments/assets/cea0532a-7c46-47aa-83de-5b6c48ba7708" width="300px">
+<img src="https://github.com/user-attachments/assets/50f826b0-2207-4b14-abe2-a684f5496551" width="300px">
+
