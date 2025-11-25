@@ -11,8 +11,13 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StudyDevW&theme=dark_lover&margin-w=15&title=-Reviews,-PullRequest,-Stars,-Followers,-Issues" alt="StudyDevW" /></a>
 <h2>Awards</h2>
 
+`Volga IT 2024`
+
 [<img src="https://github.com/user-attachments/assets/cea0532a-7c46-47aa-83de-5b6c48ba7708" width="300px">](https://github.com/StudyDevW/Simbir.HealthAPI)
 <img src="https://github.com/user-attachments/assets/50f826b0-2207-4b14-abe2-a684f5496551" width="300px">
-<img width="302px" alt="mts_true_tech_alg" src="https://github.com/user-attachments/assets/f2dfa0a8-b72e-41e9-8c7e-d39b5aabe029" />
+
+`MTS True Tech Champ 2025`
+
+<img width="300px" alt="mts_true_tech_alg" src="https://github.com/user-attachments/assets/f2dfa0a8-b72e-41e9-8c7e-d39b5aabe029" />
 
 
