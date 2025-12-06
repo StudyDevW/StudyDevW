@@ -20,4 +20,8 @@
 
 <img width="300px" alt="mts_true_tech_alg" src="https://github.com/user-attachments/assets/f2dfa0a8-b72e-41e9-8c7e-d39b5aabe029" />
 
+`Yandex Cup 2025`
+
+<img width="300px" alt="image" src="https://github.com/user-attachments/assets/98230009-722d-4703-9b0d-6a5e3aac8d85" />
+
 
