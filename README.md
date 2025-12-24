@@ -24,4 +24,7 @@
 
 <img width="300px" alt="image" src="https://github.com/user-attachments/assets/98230009-722d-4703-9b0d-6a5e3aac8d85" />
 
+`Volga IT 2025`
+
+[<img width="300px" alt="image" src="https://github.com/user-attachments/assets/d7208d2d-c01f-47d5-8133-ff3bde778398" />](https://www.figma.com/design/VV2ikTs8hbeSqV6O77OoEs/VolgaIT-UniqueAutomotive?node-id=0-1&t=K9ogQDhJSPNQbMd5-1)
 
