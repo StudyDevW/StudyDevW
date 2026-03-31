@@ -3,8 +3,8 @@
 </h1>
 <img width="1302" height="675" alt="title_port" src="https://github.com/user-attachments/assets/326f7e2d-e05c-4924-9987-67f6c943a469" />
 
-<!-- <h2>Achievements</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StudyDevW&theme=dark_lover&margin-w=15&title=-Reviews,-PullRequest,-Stars,-Followers,-Issues" alt="StudyDevW" /></a> -->
+<h2>Achievements</h2>
+<a href="https://github-profile-repo.vercel.app"><img src="https://github-profile-repo.vercel.app/?username=StudyDevW&theme=dark_lover&margin-w=15&title=-Reviews,-PullRequest,-Stars,-Followers,-Issues" alt="StudyDevW" /></a> 
 <h2>Awards</h2>
 
 `Volga IT 2024`
