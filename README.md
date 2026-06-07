@@ -1,26 +1,16 @@
-<h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&pause=1000&color=618D26&background=FFFFFF00&vCenter=true&multiline=true&width=435&height=40&lines=Full-Stack+Developer+C%2B%2B+%2F+.NET" alt="Typing SVG" /></a>
-</h1>
-<img width="1302" height="675" alt="title_port" src="https://github.com/user-attachments/assets/326f7e2d-e05c-4924-9987-67f6c943a469" />
+<a href="#" onclick="return false;" align="center" style="overflow-x: auto;">
+  <img height="350" alt="BLOCKFIRST" src="https://github.com/user-attachments/assets/dddfb8f3-2c91-44b9-b827-c65b1d77cfa5"/>
 
-<h2>Achievements</h2>
-<a href="https://github-profile-repo.vercel.app"><img src="https://github-profile-repo.vercel.app/?username=StudyDevW&theme=dark_lover&margin-w=15&title=-PullRequest,-Stars,-Followers,-Issues" alt="StudyDevW" /></a> 
-<h2>Awards</h2>
+  <img height="350" alt="BLOCKSECOND" src="https://github.com/user-attachments/assets/02d848f7-b5a2-4d8d-8ad1-aa7e61728a09"/>
 
-`Volga IT 2024`
+  <img height="350" alt="BLOCKTHIRD" src="https://github.com/user-attachments/assets/91a94fcf-cb94-4043-9071-edbe68682403" />
 
-[<img src="https://github.com/user-attachments/assets/cea0532a-7c46-47aa-83de-5b6c48ba7708" width="300px">](https://github.com/StudyDevW/Simbir.HealthAPI)
-<img src="https://github.com/user-attachments/assets/50f826b0-2207-4b14-abe2-a684f5496551" width="300px">
+  <img height="350" alt="BLOCKFOUR" src="https://github.com/user-attachments/assets/3fef213b-16ec-469f-945a-755195f23698" />
 
-`MTS True Tech Champ 2025`
+</a>
 
-<img width="300px" alt="mts_true_tech_alg" src="https://github.com/user-attachments/assets/f2dfa0a8-b72e-41e9-8c7e-d39b5aabe029" />
+<a href="https://github.com/StudyDevW/StudyDevW/blob/main/CERTS.md" align="center" style="overflow-x: auto;">
+  <img height="418" alt="BLOCKLAST" src="https://github.com/user-attachments/assets/7563c0ae-bdb1-401f-8b51-ebaf19f5aa76" />
+</a>
 
-`Yandex Cup 2025`
-
-<img width="300px" alt="image" src="https://github.com/user-attachments/assets/98230009-722d-4703-9b0d-6a5e3aac8d85" />
-
-`Volga IT 2025`
-
-[<img width="300px" alt="image" src="https://github.com/user-attachments/assets/d7208d2d-c01f-47d5-8133-ff3bde778398" />](https://www.figma.com/design/VV2ikTs8hbeSqV6O77OoEs/VolgaIT-UniqueAutomotive?node-id=0-1&t=K9ogQDhJSPNQbMd5-1)
-
+<a align="center" href="https://github-profile-repo.vercel.app"><img src="https://github-profile-repo.vercel.app/?username=StudyDevW&theme=dark_lover&margin-w=25&title=-PullRequest,-Stars,-Followers,-Issues" alt="StudyDevW"/></a> 
