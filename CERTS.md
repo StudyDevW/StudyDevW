@@ -17,3 +17,6 @@
 
 [<img width="300px" alt="image" src="https://github.com/user-attachments/assets/d7208d2d-c01f-47d5-8133-ff3bde778398" />](https://www.figma.com/design/VV2ikTs8hbeSqV6O77OoEs/VolgaIT-UniqueAutomotive?node-id=0-1&t=K9ogQDhJSPNQbMd5-1)
 
+`College Exam 2026 (Python & Django)`
+
+<img width="300px" alt="image" src="https://github.com/user-attachments/assets/c95307da-4c3d-41f2-ae8f-b84abdd13c93" />
